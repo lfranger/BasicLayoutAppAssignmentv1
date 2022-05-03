@@ -9,7 +9,7 @@ import UIKit
 
 class HabitDetailedViewController: UIViewController {
     
-    var habit: Habit!
+    //var habit: Habit!
     var habitIndex: Int!
     
     private var persistence = PersistenceLayer()
